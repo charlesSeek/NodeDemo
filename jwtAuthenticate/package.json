@@ -1,0 +1,21 @@
+{
+  "name": "jwtauthenticate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dynogels": "^8.0.1",
+    "jwt-simple": "^0.5.1",
+    "lodash": "^4.17.4",
+    "validator": "^8.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.5.0"
+  }
+}
